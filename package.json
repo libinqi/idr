@@ -1,0 +1,6 @@
+{
+  "name": "idr",
+  "version": "1.0.0",
+  "description": "身份证阅读器node.js模块",
+  "main": "index.js"
+}
