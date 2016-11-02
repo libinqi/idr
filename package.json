@@ -1,6 +1,15 @@
 {
   "name": "idr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "身份证阅读器node.js模块",
-  "main": "index.js"
+  "main": "index.js",
+  "author": {
+    "email": "libinqi@outlook.com",
+    "name": "libinqi"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/libinqi/idr-syn.git"
+  }
 }
