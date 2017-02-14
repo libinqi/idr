@@ -38,3 +38,7 @@ jspm_packages
 
 # git
 .git
+
+# IDE
+.vscode
+.idea
